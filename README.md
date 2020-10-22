@@ -3,6 +3,4 @@
 
 # Database Create
 
-- To run a database use remote URL/ Install
-
-# OnlineForm Initialise
+- To run a database use remote URL /Install.php
